@@ -29,4 +29,4 @@ Projeto de demonstração de animação gráfica com um "olho digital" usando um
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/eye-display-esp32c3-gc9a01a.git
+   git clone https://github.com/JulioAprigio8/eye-display-esp32c3-gc9a01a.git
